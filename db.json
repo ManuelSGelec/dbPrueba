@@ -1,4 +1,5 @@
-    {
+"lugares"[
+{
         "nombre": "Bunkers del Carmel",
         "descripcion": "Bunkers antiaéreos abandonados de la Guerra Civil Española.",
         "ubicacion": "Barcelona",
@@ -34,3 +35,4 @@
         "actividad_paranormal": "Avistamientos de figuras espectrales entre los árboles.",
         "nivel_terror": 4
     }
+]
