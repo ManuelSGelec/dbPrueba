@@ -6,7 +6,7 @@
         "ubicacion": "Barcelona",
         "coordenadas": "41.4186° N, 2.1590° E",
         "fecha_construccion": "1938",
-        "actividad_paranormal": "Informes de apariciones fantasmales y extraños sonidos.",
+        "actividad_paranormal": "En la oscuridad de la noche, un grupo de amigos decidió explorar los Bunkers del Carmel, intrigados por las historias de actividad paranormal que circulaban sobre el lugar. A medida que descendían por los escalones de concreto, las sombras parecían cobrar vida, susurrando secretos de un pasado olvidado. De repente, una figura etérea se materializó ante ellos, provocando gritos de terror antes de desaparecer en la oscuridad.",
         "nivel_terror": 3
     },
     {
@@ -15,7 +15,7 @@
         "ubicacion": "Cardona",
         "coordenadas": "41.9115° N, 1.6867° E",
         "fecha_construccion": "886",
-        "actividad_paranormal": "Supuestas apariciones de una dama fantasmal vestida de blanco.",
+        "actividad_paranormal": "Una pareja de excursionistas decidió acampar cerca del Castillo de Cardona, atraídos por su belleza imponente. Mientras exploraban los alrededores, la luna llena iluminaba el castillo, revelando la figura de una dama vestida de blanco que parecía flotar entre las torres. Con el corazón acelerado, los excursionistas observaron mientras la figura desaparecía lentamente, dejándolos con una sensación de asombro y temor.",
         "nivel_terror": 4
     },
     {
@@ -24,7 +24,7 @@
         "ubicacion": "Terrassa",
         "coordenadas": "41.5667° N, 2.0167° E",
         "fecha_construccion": "1930",
-        "actividad_paranormal": "Informes de figuras sombrías y ruidos inquietantes.",
+        "actividad_paranormal": "Un grupo de jóvenes desafiantes se aventuró en el Hospital del Tórax, decididos a descubrir si las historias sobre el lugar eran ciertas. A medida que exploraban las sombrías salas y pasillos vacíos, comenzaron a escuchar susurros inquietantes y pasos que parecían seguirlos en la oscuridad. Con el corazón en la garganta, se apresuraron a salir, convencidos de que no estaban solos en el hospital abandonado.",
         "nivel_terror": 5
     },
     {
@@ -33,7 +33,7 @@
         "ubicacion": "Girona",
         "coordenadas": "41.9793° N, 2.8198° E",
         "fecha_construccion": "1790",
-        "actividad_paranormal": "Avistamientos de figuras espectrales entre los árboles.",
+        "actividad_paranormal": "Una pareja de excursionistas se adentró en el bosque en busca de la misteriosa Mansión del Bosque, ansiosos por descubrir su secreto oscuro. A medida que avanzaban entre los árboles, comenzaron a sentir una presencia inquietante que los observaba desde las sombras. De repente, avistaron figuras espectrales entre los árboles, sus formas etéreas desvaneciéndose en la niebla. Con el corazón acelerado, la pareja decidió abandonar el bosque, convencidos de que habían encontrado algo más que una simple mansión abandonada.",
         "nivel_terror": 4
     }
 ]
