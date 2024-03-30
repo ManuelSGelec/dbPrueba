@@ -1,16 +1,38 @@
-
-
+"lugares":[
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+        "nombre": "Bunkers del Carmel",
+        "descripcion": "Bunkers antiaéreos abandonados de la Guerra Civil Española.",
+        "ubicacion": "Barcelona",
+        "coordenadas": "41.4186° N, 2.1590° E",
+        "fecha_construccion": "1938",
+        "actividad_paranormal": "Informes de apariciones fantasmales y extraños sonidos.",
+        "nivel_terror": 3
+    },
+    {
+        "nombre": "Castillo de Cardona",
+        "descripcion": "Castillo medieval con una historia oscura.",
+        "ubicacion": "Cardona",
+        "coordenadas": "41.9115° N, 1.6867° E",
+        "fecha_construccion": "886",
+        "actividad_paranormal": "Supuestas apariciones de una dama fantasmal vestida de blanco.",
+        "nivel_terror": 4
+    },
+    {
+        "nombre": "Hospital del Tórax",
+        "descripcion": "Sanatorio abandonado para tuberculosis.",
+        "ubicacion": "Terrassa",
+        "coordenadas": "41.5667° N, 2.0167° E",
+        "fecha_construccion": "1930",
+        "actividad_paranormal": "Informes de figuras sombrías y ruidos inquietantes.",
+        "nivel_terror": 5
+    },
+    {
+        "nombre": "La Mansión del Bosque",
+        "descripcion": "Antigua mansión rodeada de un bosque oscuro y misterioso.",
+        "ubicacion": "Girona",
+        "coordenadas": "41.9793° N, 2.8198° E",
+        "fecha_construccion": "1790",
+        "actividad_paranormal": "Avistamientos de figuras espectrales entre los árboles.",
+        "nivel_terror": 4
+    }
+]
