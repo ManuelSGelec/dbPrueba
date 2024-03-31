@@ -1,6 +1,7 @@
 {
 "lugares": [
 {
+        "id": 0,
         "nombre": "Bunkers del Carmel",
         "descripcion": "Bunkers antiaéreos abandonados de la Guerra Civil Española.",
         "ubicacion": "Barcelona",
@@ -10,6 +11,7 @@
         "nivel_terror": 3
     },
     {
+        "id": 1,
         "nombre": "Castillo de Cardona",
         "descripcion": "Castillo medieval con una historia oscura.",
         "ubicacion": "Cardona",
@@ -19,6 +21,7 @@
         "nivel_terror": 4
     },
     {
+        "id": 2,
         "nombre": "Hospital del Tórax",
         "descripcion": "Sanatorio abandonado para tuberculosis.",
         "ubicacion": "Terrassa",
@@ -28,6 +31,7 @@
         "nivel_terror": 5
     },
     {
+        "id": 3,
         "nombre": "La Mansión del Bosque",
         "descripcion": "Antigua mansión rodeada de un bosque oscuro y misterioso.",
         "ubicacion": "Girona",
